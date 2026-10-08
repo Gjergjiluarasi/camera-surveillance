@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "name": "camera-surveillance",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": true,
+      "**/.DS_Store": true
+    }
+  }
+}
